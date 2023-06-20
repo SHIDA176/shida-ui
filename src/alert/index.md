@@ -4,7 +4,7 @@ nav:
   title: 组件
   order: 2
 group:
-  title: 组件列表
+  title: 组件列表项
   order: 1
 ---
 
