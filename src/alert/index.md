@@ -2,7 +2,7 @@
 title: Alert 警告提示
 nav:
   title: 组件
-  order: 2
+  path: /src
 group:
   title: 组件列表项
   order: 1

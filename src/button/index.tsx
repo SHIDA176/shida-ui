@@ -12,7 +12,7 @@ export interface ButtonProps {
 
 export type kindMap = Record<Required<ButtonProps>['type'], string>
 
-const prefixCls = 'xianzao-alert';
+const prefixCls = 'shida-alert';
 
 const kinds: kindMap = {
   primary: '#5352ED',

@@ -12,7 +12,7 @@ export interface AlertProps {
 
 export type kindMap = Record<Required<AlertProps>['kind'], string>
 
-const prefixCls = 'xianzao-alert';
+const prefixCls = 'shida-alert';
 
 const kinds: kindMap = {
   info: '#5352ED',
