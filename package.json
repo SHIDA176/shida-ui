@@ -15,7 +15,7 @@
     "deploy:site": "npm run build:site && gh-pages -d doc-site",
     "clean": "rimraf lib esm dist",
     "build": "npm run clean && npm run build:types && gulp",
-    "release": "np --no-cleanup --no-tests -any-branch --no-2fa"
+    "release": "np --no-cleanup --no-tests --any-branch --no-2fa"
   },
   "keywords": [],
   "author": "",
